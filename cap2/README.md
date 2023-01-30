@@ -7,3 +7,4 @@
 
 - Revisão de Funções: ```cap2_functions.py```
 - Revisão de Strings: ```cap2_strings.py```
+- Revisão de Exceções ```cap2_exceptions.py```
