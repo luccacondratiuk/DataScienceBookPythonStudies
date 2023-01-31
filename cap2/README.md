@@ -10,3 +10,4 @@
 - Revisão de Exceções: ```cap2_exceptions.py```
 - Revisão de Listas: ```cap2_lists.py```
 - Revisão de Tuplas: ```cap2_tuples.py```
+- Revisão de Dicionários: ```cap2_dictionaries.py```
