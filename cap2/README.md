@@ -14,3 +14,4 @@
 - Revisão de Classes: ```cap2_classes.py```
 - Revisão de Iteráveis e Geradores:  ```cap2_iter_gen.py```
 - Revisão de Aleatoriedade:  ```cap2_random.py```
+- Revisão de RegEx:  ```cap2_regex.py```
