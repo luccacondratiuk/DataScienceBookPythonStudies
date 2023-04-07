@@ -1,6 +1,6 @@
 class CountingClicker:
     """Classes as well as functions may have a docstring"""
-    def __init__(self, count = 0):
+    def __init__(self, count:int = 0):
         """Class constructor, self  arg by default is the instance"""
         self.count = count
 
@@ -8,7 +8,7 @@ class CountingClicker:
         """DUNDER methods (Double-UNDERscores), always are something meaningful, __repr__ return a string representation of the class"""
         return f"CountingClicker(count={self.count})"
 
-    def click(self, num_times = 1)->None:
+    def click(self, num_times:int = 1)->None:
         """Click in the counter for n times, 1 by default"""
         self.count+=num_times
         return

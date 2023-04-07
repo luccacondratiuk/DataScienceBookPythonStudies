@@ -1,4 +1,4 @@
-def generate_range(n = 1):
+def generate_range(n:int = 1):
     i = 0
     while i < n:
         yield i

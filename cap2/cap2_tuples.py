@@ -9,7 +9,7 @@ my_tuple = (1,2,3)
 x,y,z = (1,2,3) # Now, it does make sense, since tuples are not dynamic
 
 # You can use tuples for multiple returns
-def sum_and_product(x,y):
+def sum_and_product(x:int,y:int)->tuple[int]:
     return (x+y),(x*y)
 
 new_tuple = sum_and_product(2,5)

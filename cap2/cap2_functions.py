@@ -1,4 +1,4 @@
-def double(x):
+def double(x:int)->int:
     """
     This is a doc string utilized for describe functions,
     and help (you) and other devs, to understand your code
@@ -27,7 +27,7 @@ print(y)
 
 # Now talking deeper about parameters
 
-def my_print(message = "My Custom Default Message"):
+def my_print(message:str = "My Custom Default Message")->None:
     """
     Outputs the parameter, if none, outputs
     \"My Custom Default Message\"
@@ -40,7 +40,7 @@ my_print()
 # Need named params?
 # Easy handle
 
-def construct_full_name(first = "John", last = "Doe"):
+def construct_full_name(first = "John", last = "Doe")->str:
     """
     Function that Returns a concatenated string
     with a space between the two names
