@@ -12,3 +12,4 @@
 - Revisão de Tuplas: ```cap2_tuples.py```
 - Revisão de Dicionários: ```cap2_dictionaries.py```
 - Revisão de Classes: ```cap2_classes.py```
+- Revisão de Iteráveis e Geradores:  ```cap2_iter_gen.py```
