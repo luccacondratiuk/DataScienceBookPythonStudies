@@ -10,3 +10,4 @@ ___
 
 - Gráfico de barras: ```cap3_bar_chart.py```
 - Gráfico de linhas: ```cap3_line_chart.py```
+- Gráfico de dispersão: ```cap3_scatter_chart.py```
