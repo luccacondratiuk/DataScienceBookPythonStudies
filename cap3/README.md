@@ -8,4 +8,4 @@
 
 ___
 
-
+- Gráfico de barras: ```cap3_bar_chart.py```
