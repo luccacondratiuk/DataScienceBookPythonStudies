@@ -15,3 +15,4 @@
 - Revisão de Iteráveis e Geradores:  ```cap2_iter_gen.py```
 - Revisão de Aleatoriedade:  ```cap2_random.py```
 - Revisão de RegEx:  ```cap2_regex.py```
+- Revisão de Zips:  ```cap2_zip.py```
