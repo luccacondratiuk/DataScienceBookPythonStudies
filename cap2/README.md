@@ -16,3 +16,4 @@
 - Revisão de Aleatoriedade:  ```cap2_random.py```
 - Revisão de RegEx:  ```cap2_regex.py```
 - Revisão de Zips:  ```cap2_zip.py```
+- Revisão de Args e KWArgs:  ```cap2_args_kwargs.py```
