@@ -1,4 +1,4 @@
-# Capítulo 3: Álgebra Linear
+# Capítulo 4: Álgebra Linear
 
 - Vetores são pontos em um espaço de dimensão finita
 - Uma abordagem em python, é ver vetores, como uma lista, onde o comprimento, seria o equivalente as dimensões desse vetor
