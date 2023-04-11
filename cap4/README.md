@@ -8,3 +8,4 @@
 ___
 
 - Vetores: ```cap4_arrays.py```
+- Matrizes: ```cap4_matrix.py```
